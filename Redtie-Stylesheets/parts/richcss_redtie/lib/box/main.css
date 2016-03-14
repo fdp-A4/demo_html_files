@@ -1,0 +1,20 @@
+/*PAGE LAYOUT*/
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#logo{float:left; background:#DC143C; width:274px; height:213px;}
+#topheader{float:right; width:526px; height:97px; background-color:#F0F0F0; position:relative}
+#toplinks{position:absolute; right:10px; top:10px;}
+#menu{float:right; width:526px; height:32px; background: #C0C0C0; background-repeat:repeat-x;}
+#submenu{float:right; width:526px; height:32px; background: #DCDCDC; background-position:top; background-repeat:repeat-x;}
+#contenttext{float:right; width:526px;}
+#leftpanel{float:left; width:274px;}
+#footer{float:left; width:800px; background-color:#F0F0F0; padding:10px;}
+
+/*GRAY PANEL*/
+.graypanel{
+	border:solid 1px #666666; background-color:#F7F7F7; padding:10px; margin:10px;
+}
