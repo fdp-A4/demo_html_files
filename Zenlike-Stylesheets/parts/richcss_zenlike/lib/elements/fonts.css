@@ -1,0 +1,24 @@
+h3 span
+{
+font-weight: normal;
+}
+
+h3,h4
+{
+display: inline;
+font-weight: bold;
+background-repeat: no-repeat;
+background-position: right;
+}
+
+h3
+{
+font-size: 1.7em;
+padding-right: 34px;
+}
+
+h4
+{
+font-size: 1.2em;
+padding-right: 28px;
+}
